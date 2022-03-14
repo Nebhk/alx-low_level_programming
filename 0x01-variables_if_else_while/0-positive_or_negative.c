@@ -7,11 +7,13 @@
 
 
 /* betty style doc for function main goes there */
-
+/* main - prints if a number is positive, negative or zero
+ * Description: using the main function print positice, negative or zero
+ * Return: 0
+ * */
 int main(void)
 
 {
-
 		int n;
 
 
