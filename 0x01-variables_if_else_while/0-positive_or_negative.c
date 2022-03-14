@@ -3,18 +3,19 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
 
 
-/* betty style doc for function main goes there
+/**
  * main - prints if a number is positive, negative or zero
+ *
  * Description: using the main function print positice, negative or zero
  * Return: 0
  */
 int main(void)
 
 
-/*main - this is where the excusion of the code begins
+/*
+ * main - this is where the excusion of the code begins
  */
 
 {
