@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * jack_bauer - function that prints every minute of the day
- * min loop, while hour 
+ * min loop, while hour
  * Return: 0
  */
 void jack_bauer(void)
