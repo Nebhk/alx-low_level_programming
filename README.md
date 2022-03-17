@@ -1,1 +1,1 @@
-basics about C programing
+Debugging is a very important part of programming!
