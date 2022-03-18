@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
-* _isupper - checks if a character is upper 
+* _isupper - checks if a character is upper
 * @c: an integer to check the value of a character
-* Return: 0 
+* Return: 0
 */
 int _isupper(int c)
 {
@@ -10,6 +11,6 @@ int _isupper(int c)
 	{
 	return (1);
 	}
-	else 
+	else
         return (0);
 }
