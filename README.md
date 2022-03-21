@@ -1,1 +1,1 @@
-Debugging is a very important part of programming!
+Pointers, arrays and strings

@@ -1,8 +1,8 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
-#include <stdio.h>
-
-void positive_or_negative(int i);
-
-#endif /*MAIN_H */
+void reset_to_98(int *n);
+int _putchar(char c);
+void swap_int(int *a, int *b);	
+int _strlen(char *s);
+#endif
