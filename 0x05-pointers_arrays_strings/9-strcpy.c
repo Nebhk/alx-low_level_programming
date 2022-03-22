@@ -3,7 +3,7 @@
  * _strcpy - copies src to dest
  * @dest: char
  * @src: char
- * return: char
+ * Return: char
  */
 char *_strcpy(char *dest, char *src)
 {
