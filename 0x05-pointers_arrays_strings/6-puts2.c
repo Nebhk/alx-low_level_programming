@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts - prints 1 char/2 of a string followed by a new line.
+ * puts2 - prints 1 char/2 of a string followed by a new line.
  * @str: declaration of str
  */
 void puts2(char *str)
