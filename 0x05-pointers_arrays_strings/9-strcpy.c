@@ -3,7 +3,7 @@
  * _strcpy - copies src to dest
  * @dest: char
  * @src: char
- * retun: char
+ * return: char
  */
 char *_strcpy(char *dest, char *src)
 {
@@ -12,7 +12,7 @@ char *_strcpy(char *dest, char *src)
 	i = 0;
 	while (src[i])
 	{
-		dest[i] = src [i];
+		dest[i] = src[i];
 		i++;
 	}
 	dest[i] = '\0';
