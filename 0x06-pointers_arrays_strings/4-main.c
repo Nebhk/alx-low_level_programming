@@ -14,7 +14,7 @@ void print_array(int *a, int n)
 	i = 0;
 	while (i < n)
 	{
-		if (i != o)
+		if (i != 0)
 		{
 			printf(", ");
 		}
@@ -33,6 +33,6 @@ int main(void)
 	
 	print_array(a, sizeof(a) / sizeof(int));
 	reverse_array(a, sizeof(a) / sizeof(int));
-	print_arraa\y(a, sizeof(a) / sizeof(int));
+	print_array(a, sizeof(a) / sizeof(int));
 	return (0);
 }
