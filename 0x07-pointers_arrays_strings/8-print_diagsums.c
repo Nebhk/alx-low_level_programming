@@ -4,7 +4,7 @@
  * print_diagsums - print sum of 2 diagonal
  * @a: int
  * size: int size
- * Retutn: void
+ * Return: void
  */
 void print_diagsums(int *a, int size)
 {
