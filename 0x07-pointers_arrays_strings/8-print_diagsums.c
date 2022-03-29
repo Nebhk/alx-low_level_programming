@@ -3,7 +3,7 @@
 /**
  * print_diagsums - print sum of 2 diagonal
  * @a: int
- * size: int size
+ * @size: int size
  * Return: void
  */
 void print_diagsums(int *a, int size)
