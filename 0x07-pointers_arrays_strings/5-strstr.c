@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * _strstr - finds he firstocuurence of the substring needle
  * in the string haystack
@@ -12,7 +13,7 @@ char *_strstr(char *haystack, char *needle)
 	while (*haystack != '\0')
 	{
 		char *beginning = haystack;
-		char *pattern - needle;
+		char *pattern = needle;
 
 		while (*pattern == *haystack && *pattern != '\0'
 				&& *haystack != '\0')

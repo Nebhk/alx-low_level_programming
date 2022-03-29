@@ -3,7 +3,7 @@
  * _strpbrk - locates the first occurence in the string s of any
  * of the bytes in the string accept
  * @s: parameter for the char
- * @acccept: parameter for accept
+ * @accept: parameter for accept
  * Return: pointer to the byte s
  */
 char *_strpbrk(char *s, char *accept)
