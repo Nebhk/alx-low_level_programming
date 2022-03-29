@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - a function that writes files memory with a constant byte
+ * _memset - a function that writes files
  * @s: parameter for the array
  * @b: paramemter for the values in the array
  * @n: parameter for the nmber of times to print the new char
